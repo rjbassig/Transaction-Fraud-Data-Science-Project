@@ -1,0 +1,17 @@
+# Data (VERY IMPORTANT)
+*.csv
+data/
+Credit Data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
